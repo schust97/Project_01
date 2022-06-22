@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice01</string>
+    <string name="password">Password :</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="user_name">User Name :</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+</resources>
